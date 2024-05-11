@@ -1,4 +1,4 @@
-# **Project Data Analyst Internship di Cygnus Bite
+# **Project Data Analyst Internship di Cygnus Bite**
 Selamat datang di repositori proyek analisis data saya! Di sini, Anda akan menemukan dua proyek yang telah saya kembangkan untuk menganalisis data dari dua entitas yang berbeda, menyoroti berbagai aspek dari dunia digital.
 
 ## Project 1: Analisis Penjualan Ecommerce Kopi Ratu
